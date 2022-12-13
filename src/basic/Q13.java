@@ -1,4 +1,4 @@
-package itsa;
+package basic;
 
 import java.util.Scanner;
 import java.util.TreeMap;

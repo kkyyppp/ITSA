@@ -1,4 +1,4 @@
-package itsa;
+package basic;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
