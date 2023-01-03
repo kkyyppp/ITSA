@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4964b3f3-0423-479b-bbbf-4afa4fb7580c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670907951777</updated>
     </task>
+    <task id="LOCAL-00001" summary="math_1 1~10">
+      <created>1672736862943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672736862943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="math_1 1~10" />
+    <option name="LAST_COMMIT_MESSAGE" value="math_1 1~10" />
   </component>
 </project>
