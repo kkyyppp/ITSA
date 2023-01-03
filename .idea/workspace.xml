@@ -2,53 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4964b3f3-0423-479b-bbbf-4afa4fb7580c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array_1/C_AR02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_1/C_AR03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_1/C_AR04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_1/C_AR05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array_1/C_AR01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_1/C_AR01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Q9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\ITSA\src\basic" />
