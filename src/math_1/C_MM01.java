@@ -1,10 +1,9 @@
 package math_1;
 
-import java.io.IOException;
 import java.util.Scanner;
 
-public class C_MM01{
-    public static void main(String args[]) throws IOException {
+public class C_MM01 {
+    public static void main(String args[])  {
         Scanner sc = new Scanner(System.in);
         int upper = sc.nextInt();
         int lower = sc.nextInt();
