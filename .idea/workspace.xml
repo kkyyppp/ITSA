@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4964b3f3-0423-479b-bbbf-4afa4fb7580c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math_1/C_MM30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672736862943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="math_1 11">
+      <created>1672742123972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672742123972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="math_1 1~10" />
-    <option name="LAST_COMMIT_MESSAGE" value="math_1 1~10" />
+    <MESSAGE value="math_1 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="math_1 11" />
   </component>
 </project>
