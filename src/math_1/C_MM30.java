@@ -7,6 +7,13 @@ public class C_MM30 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        System.out.println();
+        for(int i=2; i<n; i++){
+            if (n%i==0) {
+                System.out.println("NO");
+                return;
+            }
+        }
+        System.out.println("YES");
+
     }
 }
