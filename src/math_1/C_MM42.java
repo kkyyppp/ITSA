@@ -2,14 +2,15 @@ package math_1;
 
 import java.util.Scanner;
 
-public class C_MM40 {
+public class C_MM42 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        for (int i=1; i<n; i++)
-            System.out.print(i+" + ");
+        double sum=0;
+        for(int i=1; i<=n; i++)
+            sum += Math.pow(-1, i+1) / (2*i-1);
 
-        System.out.println(n+" = "+ ((1+n)*n/2) );
+        System.out.printf("%.3f\n", sum);
     }
 }

@@ -141,16 +141,16 @@ public class C_MM22 {
 
         return result;
     }
-}
 
-class Result {
-    ArrayList<String> outputList = new ArrayList<>();
-    int maxLen = 0;
-    ArrayList<Integer> usedLineList = new ArrayList<>();
+    public static class Result {
+        ArrayList<String> outputList = new ArrayList<>();
+        int maxLen = 0;
+        ArrayList<Integer> usedLineList = new ArrayList<>();
 
-    public Result(int maxLen,  String outputStr) {
-        this.maxLen = maxLen;
-        this.outputList.add(outputStr);
+        public Result(int maxLen,  String outputStr) {
+            this.maxLen = maxLen;
+            this.outputList.add(outputStr);
+        }
     }
 
 }
