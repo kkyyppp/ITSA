@@ -5,8 +5,11 @@ import java.util.Scanner;
 public class C_ST03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
 
-        System.out.println();
+        while (true) {
+            //將int轉型成char即可
+            char c = (char) sc.nextInt();
+            System.out.println(c);
+        }
     }
 }
