@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4964b3f3-0423-479b-bbbf-4afa4fb7580c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_1/C_ST13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_1/C_ST13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_1/C_ST14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_1/C_ST14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_1/C_ST18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_1/C_ST18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673347109939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="String_1 temp">
+      <created>1673431260002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673431260002</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,15 +133,21 @@
     <MESSAGE value="math_1 37~50" />
     <MESSAGE value="String_1 initial" />
     <MESSAGE value="String_1 1~6 9~12 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="String_1 1~6 9~12 37" />
+    <MESSAGE value="String_1 temp" />
+    <option name="LAST_COMMIT_MESSAGE" value="String_1 temp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String_1/C_ST13.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/String_1/C_ST18.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
+          <line>52</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

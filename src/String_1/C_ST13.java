@@ -19,7 +19,7 @@ public class C_ST13 {
         int spaceCount = n-1;
         int lineMaxNumber = 1;
 
-        //先輸出上三角
+        //先輸出上三角(有n行)
         for (int i=0; i<n; i++, spaceCount--, lineMaxNumber++) {
             //這一行的左半邊空白
             for (int j=0; j<spaceCount; j++)
@@ -42,8 +42,8 @@ public class C_ST13 {
         spaceCount = 1;
         lineMaxNumber = n-1;
 
-        //輸出下三角
-        for (int i=0; i<n; i++, spaceCount++, lineMaxNumber--) {
+        //輸出下三角(有n-1行)
+        for (int i=0; i<n-1; i++, spaceCount++, lineMaxNumber--) {
             //這一行的左半邊空白
             for (int j=0; j<spaceCount; j++)
                 System.out.print(" ");
