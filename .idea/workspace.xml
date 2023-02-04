@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4964b3f3-0423-479b-bbbf-4afa4fb7580c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_5/C_AR201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_5/C_AR202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_1/C_ST25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_5/C_AR203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_5/C_AR204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_5/C_AR205.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_5/C_AR201.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_5/C_AR201.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673599415532</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="String_1 19">
+      <created>1674121785641</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674121785641</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +160,8 @@
     <MESSAGE value="String_1 1~6 9~12 37" />
     <MESSAGE value="String_1 temp" />
     <MESSAGE value="String_1 18已完成 但上傳網站還是錯的" />
-    <option name="LAST_COMMIT_MESSAGE" value="String_1 18已完成 但上傳網站還是錯的" />
+    <MESSAGE value="String_1 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="String_1 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
